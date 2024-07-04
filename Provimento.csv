@@ -1,4 +1,4 @@
-ano;Cidade;estabelecimentos_de_saúde_por_100_000_habitantes;_leitos_de_internação_por_10_000_habitantes;consultas_ambulatoriais_por_10_000_habitantes
+ano;Cidade;estabelecimentos_de_saude_por_100_000_habitantes;_leitos_de_internacao_por_10_000_habitantes;consultas_ambulatoriais_por_10_000_habitantes
 2010;Curitiba;1896;3426;2.442.832
 2011;Curitiba;1923;3643;2.403.650
 2012;Curitiba;2184;3893;1.070.457
@@ -25,19 +25,19 @@ ano;Cidade;estabelecimentos_de_saúde_por_100_000_habitantes;_leitos_de_internaçã
 2020;Fortaleza;2459;69330;1.956.342
 2021;Fortaleza;2515;70792;2.114.443
 2022;Fortaleza;2505;69218;2.358.945
-2010;São Paulo;10195;29799;19.800.076
-2011;São Paulo;10285;32010;20.687.208
-2012;São Paulo;11326;32120;19.695.519
-2013;São Paulo;12241;32960;19.614.035
-2014;São Paulo;12872;33538;17.615.419
-2015;São Paulo;15521;59541;16.071.691
-2016;São Paulo;12066;186321;17.264.319
-2017;São Paulo;12285;181859;17.327.116
-2018;São Paulo;12440;180781;17.316.678
-2019;São Paulo;12692;176582;18.150.019
-2020;São Paulo;12730;188035;12.737.528
-2021;São Paulo;12931;189028;14.880.145
-2022;São Paulo;13013;187600;17.846.842
+2010;S‚Äπo Paulo;10195;29799;19.800.076
+2011;S‚Äπo Paulo;10285;32010;20.687.208
+2012;S‚Äπo Paulo;11326;32120;19.695.519
+2013;S‚Äπo Paulo;12241;32960;19.614.035
+2014;S‚Äπo Paulo;12872;33538;17.615.419
+2015;S‚Äπo Paulo;15521;59541;16.071.691
+2016;S‚Äπo Paulo;12066;186321;17.264.319
+2017;S‚Äπo Paulo;12285;181859;17.327.116
+2018;S‚Äπo Paulo;12440;180781;17.316.678
+2019;S‚Äπo Paulo;12692;176582;18.150.019
+2020;S‚Äπo Paulo;12730;188035;12.737.528
+2021;S‚Äπo Paulo;12931;189028;14.880.145
+2022;S‚Äπo Paulo;13013;187600;17.846.842
 2010;Manaus;3227;618;894.886
 2011;Manaus;3221;632;855.625
 2012;Manaus;3759;624;821.039
@@ -64,32 +64,32 @@ ano;Cidade;estabelecimentos_de_saúde_por_100_000_habitantes;_leitos_de_internaçã
 2020;Porto Alegre;3271;49717;461.892
 2021;Porto Alegre;3123;49008;561.095
 2022;Porto Alegre;3075;48474;666.963
-2010;Goiânia;1569;954;1.568.481
-2011;Goiânia;1614;1416;2.390.808
-2012;Goiânia;1954;1425;912.772
-2013;Goiânia;2012;2660;1.198.320
-2014;Goiânia;2043;2334;1.557.792
-2015;Goiânia;2070;8268;1.521.212
-2016;Goiânia;2053;38668;1.520.835
-2017;Goiânia;1979;38600;1.253.646
-2018;Goiânia;1971;36569;1.134.679
-2019;Goiânia;1947;34195;1.164.912
-2020;Goiânia;1949;36080;805.953
-2021;Goiânia;1965;38613;1.270.339
-2022;Goiânia;1974;39458;1.468.840
-2010;Brasília;170;;
-2011;Brasília;153;;
-2012;Brasília;105;;
-2013;Brasília;436;;
-2014;Brasília;735;;
-2015;Brasília;741;8107;
-2016;Brasília;640;49817;
-2017;Brasília;889;50605;
-2018;Brasília;4384;50727;
-2019;Brasília;4421;51923;
-2020;Brasília;4392;52270;
-2021;Brasília;4606;54516;
-2022;Brasília;4722;54606;
+2010;Goi‚Ä∞nia;1569;954;1.568.481
+2011;Goi‚Ä∞nia;1614;1416;2.390.808
+2012;Goi‚Ä∞nia;1954;1425;912.772
+2013;Goi‚Ä∞nia;2012;2660;1.198.320
+2014;Goi‚Ä∞nia;2043;2334;1.557.792
+2015;Goi‚Ä∞nia;2070;8268;1.521.212
+2016;Goi‚Ä∞nia;2053;38668;1.520.835
+2017;Goi‚Ä∞nia;1979;38600;1.253.646
+2018;Goi‚Ä∞nia;1971;36569;1.134.679
+2019;Goi‚Ä∞nia;1947;34195;1.164.912
+2020;Goi‚Ä∞nia;1949;36080;805.953
+2021;Goi‚Ä∞nia;1965;38613;1.270.339
+2022;Goi‚Ä∞nia;1974;39458;1.468.840
+2010;Bras‚Äôlia;170;;
+2011;Bras‚Äôlia;153;;
+2012;Bras‚Äôlia;105;;
+2013;Bras‚Äôlia;436;;
+2014;Bras‚Äôlia;735;;
+2015;Bras‚Äôlia;741;8107;
+2016;Bras‚Äôlia;640;49817;
+2017;Bras‚Äôlia;889;50605;
+2018;Bras‚Äôlia;4384;50727;
+2019;Bras‚Äôlia;4421;51923;
+2020;Bras‚Äôlia;4392;52270;
+2021;Bras‚Äôlia;4606;54516;
+2022;Bras‚Äôlia;4722;54606;
 ;;;;
 ;;;;
 ;;;;
@@ -108,5 +108,5 @@ ano;Cidade;estabelecimentos_de_saúde_por_100_000_habitantes;_leitos_de_internaçã
 ;;;;
 ;;;;
 ;;;;
-SP-São Paulo, PR-Curitiba, CE-Fortaleza, DF-Brasília, AM-Manaus (capitais - municipal);;;;
-Opções alternativas: Porto Alegre e Goiânia;;;;
+SP-S‚Äπo Paulo, PR-Curitiba, CE-Fortaleza, DF-Bras‚Äôlia, AM-Manaus (capitais - municipal);;;;
+Op¬ç‚Ä∫es alternativas: Porto Alegre e Goi‚Ä∞nia;;;;
